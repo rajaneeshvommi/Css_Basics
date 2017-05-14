@@ -1,0 +1,24 @@
+/* First Container */
+.div1{
+	
+	background-color:red;
+
+}
+
+/* Second  Container */
+.div2{
+background-color: black;
+position:absolute;
+top:20px;
+}
+
+/* Third Container */
+.div3{
+
+background-color: green;
+}
+
+div{
+	height:100px;
+	color:white;
+}
